@@ -82,7 +82,7 @@
 ```bash
 Тут установка немного иная, скачайте архив из релиза ниже, а дальше по командам
 https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
-unzip seeker[RUS].zip
+unzip seeker.RUS.zip
 cd seeker/
 chmod 777 install.sh
 ./install.sh
@@ -105,7 +105,7 @@ docker pull thewhiteh4t/seeker
 ```bash
 Тут установка немного иная, скачайте архив из релиза ниже, а дальше по командам
 https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
-unzip seeker[RUS].zip
+unzip seeker.RUS.zip
 cd seeker/
 chmod 777 install.sh
 ./termux_install.sh
