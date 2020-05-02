@@ -85,7 +85,7 @@ https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.z
 unzip seeker.RUS.zip
 cd seeker/
 chmod 777 install.sh
-./install.sh
+sudo ./install.sh
 ```
 
 ### BlackArch Linux
@@ -108,10 +108,13 @@ https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.z
 unzip seeker.RUS.zip
 cd seeker/
 chmod 777 install.sh
-./termux_install.sh
+sudo ./termux_install.sh
 ```
 
 ## Использование
+# ВНИМАНИЕ!!!
+В архиве уже находится ngrok поэтому егос качивание необходимо только в случае его неработоспособности или в случае вашего желания обновить ngrok
+# ______
 
 ```bash
 python3 seeker.py -h
