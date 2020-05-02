@@ -80,7 +80,8 @@
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-<a href="https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip"><b>Скачайте архив релиза</b></a>
+Тут установка немного иная, скачайте архив из релиза ниже, а дальше по командам
+https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
 unzip seeker[RUS].zip
 cd seeker/
 chmod 777 install.sh
@@ -102,7 +103,8 @@ docker pull thewhiteh4t/seeker
 ### Termux
 
 ```bash
-<a href="https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip"><b>Скачайте архив релиза</b></a>
+Тут установка немного иная, скачайте архив из релиза ниже, а дальше по командам
+https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
 unzip seeker[RUS].zip
 cd seeker/
 chmod 777 install.sh
