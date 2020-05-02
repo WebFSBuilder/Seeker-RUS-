@@ -1,7 +1,7 @@
 # Seeker-RUS-
 Русификация для скрипта seeker
 
-# ДЛЯ УСТАНОВКИ ЭТОЙ ВЕРСИИ СКАЧАЙТЕ: 
+
 <p align="center"><img src="https://psv4.userapi.com/c856236/u370917353/docs/d2/d29704554ab9/Fioletovaya_i_Rozovaya_Sovremennaya_Rabota_iz_Doma_Prostaya_Prezentatsia.png?extra=Ip4gQ7AT03jHt4lrLPpF0YmLSnvUBF9ecB1LWMnmcg_vkFSPLeam3rcLB29yJCoyqo0DUpdBgn0q5nYfy7itKfQrtwsIJby6-iJFlLA6LPhj3Yj_tsOzIXhZA3af5Pl8I1wQr36EGAzM7xbrHQKZg-pY"></p>
 
 <p align="center">
@@ -80,7 +80,8 @@
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-
+# ДЛЯ УСТАНОВКИ ЭТОЙ ВЕРСИИ СКАЧАЙТЕ: https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
+unzip seeker[RUS].zip
 cd seeker/
 chmod 777 install.sh
 ./install.sh
@@ -101,9 +102,10 @@ docker pull thewhiteh4t/seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+# ДЛЯ УСТАНОВКИ ЭТОЙ ВЕРСИИ СКАЧАЙТЕ: https://github.com/WebFSBuilder/Seeker-RUS-/releases/download/1.2.5/seeker.RUS.zip
+unzip seeker[RUS].zip
 cd seeker/
-chmod 777 termux_install.sh
+chmod 777 install.sh
 ./termux_install.sh
 ```
 
