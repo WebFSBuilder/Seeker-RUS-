@@ -1,8 +1,7 @@
 # Seeker-RUS-
 Русификация для скрипта seeker
 
-# Seeker-RUS-
-ДЛЯ УСТАНОВКИ ЭТОЙ ВЕРСИИ СКАЧАЙТЕ: 
+# ДЛЯ УСТАНОВКИ ЭТОЙ ВЕРСИИ СКАЧАЙТЕ: 
 <p align="center"><img src="https://psv4.userapi.com/c856236/u370917353/docs/d2/d29704554ab9/Fioletovaya_i_Rozovaya_Sovremennaya_Rabota_iz_Doma_Prostaya_Prezentatsia.png?extra=Ip4gQ7AT03jHt4lrLPpF0YmLSnvUBF9ecB1LWMnmcg_vkFSPLeam3rcLB29yJCoyqo0DUpdBgn0q5nYfy7itKfQrtwsIJby6-iJFlLA6LPhj3Yj_tsOzIXhZA3af5Pl8I1wQr36EGAzM7xbrHQKZg-pY"></p>
 
 <p align="center">
@@ -81,7 +80,7 @@
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+
 cd seeker/
 chmod 777 install.sh
 ./install.sh
